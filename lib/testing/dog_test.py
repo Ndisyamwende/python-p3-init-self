@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from dog import Dog
+from lib.dog import Dog
 
 class TestDog:
     '''Dog in dog.py'''
